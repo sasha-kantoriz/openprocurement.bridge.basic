@@ -1,4 +1,4 @@
-zc.buildout
--r src/openprocurement.bridge.basic/requirements.txt
+setuptools==39.2.0
+zc.buildout==2.11.5
 circus
 pytest-cov
