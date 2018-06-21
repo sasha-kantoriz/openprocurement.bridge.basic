@@ -1,4 +1,4 @@
+zc.buildout
 -r src/openprocurement.bridge.basic/requirements.txt
--e src/openprocurement-client[test]
--e src/openprocurement.bridge.basic[test]
 circus
+pytest-cov
